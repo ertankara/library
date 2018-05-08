@@ -1,0 +1,696 @@
+{
+  "library": [
+  {
+    "book": "Robinson Crusoe",
+    "author": "Daniel Defoe"
+  },
+  {
+    "book": "Great Expectations",
+    "author": "Charles Dickens"
+  },
+  {
+    "book": "Jane Eyre",
+    "author": "Charlotte Bronte"
+  },
+  {
+    "book": "Martin Eden",
+    "author": "Jack London"
+  },
+  {
+    "book": "Lord Jim",
+    "author": "Joseph Conrad"
+  },
+  {
+    "book": "A Portrait Of The Artist As A Young Man",
+    "author": "James Joyce"
+  },
+  {
+    "book": "Selected Stories",
+    "author": "Edgar Allan Poe"
+  },
+  {
+    "book": "The Advantures Of Sherlock Holmes",
+    "author": "Sir Arthur Conan Doyle"
+  },
+  {
+    "book": "Agnes Grey",
+    "author": "Anne Bronte"
+  },
+  {
+    "book": "The Picture Of Dorian Gray",
+    "author": "Oscar Wilde"
+  },
+  {
+    "book": "Wutherin Heights",
+    "author": "Emily Bronte"
+  },
+  {
+    "book": "The Woman In White",
+    "author": "Wilkie Collins"
+  },
+  {
+    "book": "Frankenstein Or The Modern Prometheus",
+    "author": "Mary Shelley"
+  },
+  {
+    "book": "Pride And Prejudice",
+    "author": "Jane Austen"
+  },
+  {
+    "book": "The Black Cat And Other Stories",
+    "author": "Edgar Allan Poe"
+  },
+  {
+    "book": "Felsefenin Temel İlkeleri",
+    "author": "Georges Politzer"
+  },
+  {
+    "book": "Ölü Canlar",
+    "author": "Nikolay Gogol"
+  },
+  {
+    "book": "Cezmi",
+    "author": "Namık Kemal"
+  },
+  {
+    "book": "Böyle Buyurdu Zerdüşt",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "book": "Devlet",
+    "author": "Platon"
+  },
+  {
+    "book": "Bilim Ahlakı",
+    "author": "Albert Bayet"
+  },
+  {
+    "book": "Dinin Ve Ahlakın Kaynakları",
+    "author": "Henri Bergson"
+  },
+  {
+    "book": "İnsan Zekasnın Tarihsel Gelişim",
+    "author": "Marquis De Condorcet"
+  },
+  {
+    "book": "Sözcükler",
+    "author": "Jean Paul Sartre"
+  },
+  {
+    "book": "Deliliğe Övgü",
+    "author": "Desiderus Erasmus"
+  },
+  {
+    "book": "Savaş Sanatı",
+    "author": "Sun Tzu"
+  },
+  {
+    "book": "Düşünme Ve Konuşma Özgürlğü",
+    "author": "John Bagnell Bruy"
+  },
+  {
+    "book": "Beyaz Zambaklar Ülkesinde",
+    "author": "Grigory Petrov"
+  },
+  {
+    "book": "Protestan Ahlakı Ve Kapitalizmin Ruhu",
+    "author": "Max Weber"
+  },
+  {
+    "book": "Prens",
+    "author": "Niccolo Machiavelli"
+  },
+  {
+    "book": "Ruhun İhtirasları",
+    "author": "Rene Descartes"
+  },
+  {
+    "book": "İdeal Bir İnsan Ve Topluma Dair Konuşmalar",
+    "author": "Konfiçyus"
+  },
+  {
+    "book": "Düşünce Oluşumu",
+    "author": "Remy De Gourmount"
+  },
+  {
+    "book": "İnsanca Pek İnsanca",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "book": "Felsefenin Başlangıç İlkeleri",
+    "author": "Georges Politzer"
+  },
+  {
+    "book": "Yaşamın Psikososyal Yönetimi",
+    "author": "Mehmet Ertem"
+  },
+  {
+    "book": "Aşkın Metafiziği",
+    "author": "Arthur Schopenhauer"
+  },
+  {
+    "book": "Bir Yanılsamanın Geleceği",
+    "author": "Sigmund Freud"
+  },
+  {
+    "book": "Dört Arketip",
+    "author": "Carl Gustav Jung"
+  },
+  {
+    "book": "Nora Bataklıktaki Gece Yarısı",
+    "author": "Nora Roberts"
+  },
+  {
+    "book": "Kürk Mantolu Madonna",
+    "author": "Sabahattin Ali"
+  },
+  {
+    "book": "Dönüşüm",
+    "author": "Franz Kafka"
+  },
+  {
+    "book": "Dönüş",
+    "author": "Şadiye Furkan Demirtaş"
+  },
+  {
+    "book": "Sıla",
+    "author": "Şadiye Furkan Demirtaş"
+  },
+  {
+    "book": "Takma Kafana Allah Büyüktür",
+    "author": "Mehmet Varol"
+  },
+  {
+    "book": "Hayat Değiştiren Başarı Öyküleri",
+    "author": "Serdar Sinanoğlu"
+  },
+  {
+    "book": "Kürt Kapanı",
+    "author": "Eylem Okumuş"
+  },
+  {
+    "book": "Ben Lucifer",
+    "author": "Glen Duncan"
+  },
+  {
+    "book": "Ermeni Tehciri",
+    "author": "Yusuf Halaçoğlu"
+  },
+  {
+    "book": "Totem Ve Tabu",
+    "author": "Sigmund Freud"
+  },
+  {
+    "book": "Keşfedilmemiş Benlik",
+    "author": "Carl Gustav Jung"
+  },
+  {
+    "book": "Cinsellik Üzerine",
+    "author": "Sigmund Freud"
+  },
+  {
+    "book": "Kitleler Psikolojisi",
+    "author": "Gustave Le Bon"
+  },
+  {
+    "book": "Kaplan! Kaplan!",
+    "author": "Alfred Bester"
+  },
+  {
+    "book": "Çocukta Yaşamsal Sorunlar",
+    "author": "Alfred Adler"
+  },
+  {
+    "book": "Psikanaliz Üzerine",
+    "author": "Sigmund Freud"
+  },
+  {
+    "book": "Küçük Prens",
+    "author": "Antoine de Saint-Exupery"
+  },
+  {
+    "book": "Geriginlikten Ve Öfkeden Çıkış Yolları",
+    "author": "David Harold Fink"
+  },
+  {
+    "book": "Çocukların Anormallikleri",
+    "author": ""
+  },
+  {
+    "book": "İnsanca Pek İnsanca",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "book": "İnsan Tabiatını Tanıma",
+    "author": "Alfred Adler"
+  },
+  {
+    "book": "Genel Psikoloji II",
+    "author": "G. Dwelshauvers"
+  },
+  {
+    "book": "Genel Psikoloji I",
+    "author": "G. Dwelshauvers"
+  },
+  {
+    "book": "Rüyaların Yorumu I",
+    "author": "Sigmund Freud"
+  },
+  {
+    "book": "Rüyaların Yorumu II",
+    "author": "Sigmund Freud"
+  },
+  {
+    "book": "Nutuk",
+    "author": "Mustafa Kemal Atatürk"
+  },
+  {
+    "book": "Ceza Kolonisinde Ve Diğer Öyküler",
+    "author": "Franz Kafka"
+  },
+  {
+    "book": "Ayşe Kulin",
+    "author": "Last Train To Istanbul"
+  },
+  {
+    "book": "The Kite Runner",
+    "author": "Khaled Hossein"
+  },
+  {
+    "book": "Sineklerin Tanrısı",
+    "author": "William Golding"
+  },
+  {
+    "book": "Ayşe Kulin",
+    "author": "Umut"
+  },
+  {
+    "book": "The Plays Of Oscar Wilde",
+    "author": "Oscar Wilde"
+  },
+  {
+    "book": "Uzun Beyaz Bulut Gelibolu",
+    "author": "Buket Uzuner"
+  },
+  {
+    "book": "Sons And Lovers",
+    "author": "D. H. Lawrence"
+  },
+  {
+    "book": "The Girl Who Kicked The Hornest' Nest",
+    "author": "Stieg Larsson"
+  },
+  {
+    "book": "Beyaz Saray Baskını",
+    "author": "Vince Flynn"
+  },
+  {
+    "book": "Kill For Me",
+    "author": "Karen Rose"
+  },
+  {
+    "book": "A Game Of Thrones",
+    "author": "George R.R. Martin"
+  },
+  {
+    "book": "Şeytan Ayrıntıda Gizlidir",
+    "author": "Ahmet Ümit"
+  },
+  {
+    "book": "Er Oyunu",
+    "author": "Refik Erduran"
+  },
+  {
+    "book": "İstanbul Hatırası",
+    "author": "Ahmet Ümit"
+  },
+  {
+    "book": "Güç Şifreleri",
+    "author": "Diana Cooper"
+  },
+  {
+    "book": "Işık Ağları",
+    "author": "Diana Cooper"
+  },
+  {
+    "book": "Taşların Sessizliği",
+    "author": "Diana Cooper"
+  },
+  {
+    "book": "Suç Ve Ceza",
+    "author": "Dostoyevski"
+  },
+  {
+    "book": "Mühendisin Başparmağı",
+    "author": "Sir Arthur Conan Doyle"
+  },
+  {
+    "book": "Ekmeğimi Kazanırken",
+    "author": "Maksim Gorki"
+  },
+  {
+    "book": "Abbey Çiftliği Olayı",
+    "author": "Sir Arthur Conan Doyle"
+  },
+  {
+    "book": "Reigate Bulmacası",
+    "author": "Sir Arthur Conan Doyle"
+  },
+  {
+    "book": "Sherlock Holmes Ölüm Döşeğinde",
+    "author": "Sir Arthur Conan Doyle"
+  },
+  {
+    "book": "Kara Kitap",
+    "author": "Orhan Pamuk"
+  },
+  {
+    "book": "Tavşan Dudaklı Adam",
+    "author": "Sir Arthur Conan Doyle"
+  },
+  {
+    "book": "Zümrüt Taç",
+    "author": "Sir Arthur Conan Doyle"
+  },
+  {
+    "book": "Bir Bilim Adamının Romanı",
+    "author": "Oğuz Atay"
+  },
+  {
+    "book": "Halfhead",
+    "author": "Stuart B. Macbride"
+  },
+  {
+    "book": "Odysseia",
+    "author": "Homeros"
+  },
+  {
+    "book": "Eagle",
+    "author": "Jack Hight"
+  },
+  {
+    "book": "İlyada",
+    "author": "Homeros"
+  },
+  {
+    "book": "Şizofren Aşka Mektup",
+    "author": "Cezmi Ersöz"
+  },
+  {
+    "book": "Kızıl Elma",
+    "author": "Cengiz Aytmatov"
+  },
+  {
+    "book": "Cemile",
+    "author": "Cengiz Aytmatov"
+  },
+  {
+    "book": "Dişi Kurdun Rüyaları",
+    "author": "Cengiz Aytmatov"
+  },
+  {
+    "book": "Gün Olur Asra Bedel",
+    "author": "Cengiz Aytmatov"
+  },
+  {
+    "book": "Vatan Yahut Silistre",
+    "author": "Namık Kemal"
+  },
+  {
+    "book": "Karamazov Kardeşler",
+    "author": "Dostoyevski"
+  },
+  {
+    "book": "Ana",
+    "author": "Maksim Gorki"
+  },
+  {
+    "book": "Kırık Hayatlar",
+    "author": "Halit Ziya Uşaklıgil"
+  },
+  {
+    "book": "Eve Dönüş",
+    "author": "Danielle Steel"
+  },
+  {
+    "book": "Masallar",
+    "author": "Tolstoy"
+  },
+  {
+    "book": "Siyah Lale",
+    "author": "Alexandre Dumas"
+  },
+  {
+    "book": "Röntgenci",
+    "author": "Alain Robbe-Grillet"
+  },
+  {
+    "book": "The Family",
+    "author": "Mario Puzo"
+  },
+  {
+    "book": "Kuzey Suları",
+    "author": "Mark Millis"
+  },
+  {
+    "book": "The Divine Comedy: Purgatory",
+    "author": "Dante Alighieri"
+  },
+  {
+    "book": "Friends, Lovers, Chocolate",
+    "author": "Alexander McCall Smith"
+  },
+  {
+    "book": "Three Seconds",
+    "author": "Roslund & Hellström"
+  },
+  {
+    "book": "Don Kişot",
+    "author": "Cervantes"
+  },
+  {
+    "book": "Kırmızı Saçlı Kadın",
+    "author": "Orhan Pamuk"
+  },
+  {
+    "book": "Safahat",
+    "author": "Mehmet Akif Ersoy"
+  },
+  {
+    "book": "Cengiz Han'a Küsen Bulut",
+    "author": "Cengiz Aytmatov"
+  },
+  {
+    "book": "Toprak Ana",
+    "author": "Cengiz Aytmatov"
+  },
+  {
+    "book": "Sultanmurat",
+    "author": "Cengiz Aytmatov"
+  },
+  {
+    "book": "Sefiller",
+    "author": "Victor Hugo"
+  },
+  {
+    "book": "Hırs",
+    "author": "Thomas Hardy"
+  },
+  {
+    "book": "Yaratıcı Drama Öğretmenimin Günlüğü",
+    "author": "Tülay Üstündağ"
+  },
+  {
+    "book": "Demir Ökçe",
+    "author": "Jack London"
+  },
+  {
+    "book": "Tüccar Hasan",
+    "author": "Binbir Gece Massalları"
+  },
+  {
+    "book": "Johan Wolfgang Von",
+    "author": "Goethe"
+  },
+  {
+    "book": "Genç Werheher'in Acıları",
+    "author": "Johan Wolfgang Von Goethe"
+  },
+  {
+    "book": "Patasana",
+    "author": "Ahmet Ümit"
+  },
+  {
+    "book": "Goriot Baba",
+    "author": "Honore De Balzac"
+  },
+  {
+    "book": "Che",
+    "author": "Birol Büyükdoğu"
+  },
+  {
+    "book": "Sergüzeşt",
+    "author": "Sami Paşazade Sezai"
+  },
+  {
+    "book": "Dede Korkut Hikayeleri",
+    "author": "Anonim"
+  },
+  {
+    "book": "Beyaz Gemi",
+    "author": "Cengiz Aytmatov"
+  },
+  {
+    "book": "Yıldırım Sesli Manascı, Yüzyüze Deniz Kıyısında Koşan Ala Köpek",
+    "author": "Cengiz Aytmatov"
+  },
+  {
+    "book": "Felatun Bey ile Rakım Efendi",
+    "author": "Ahmet Mithat Efendi"
+  },
+  {
+    "book": "Talat ile Fitan'ın Aşkı",
+    "author": "Şemseddin Sami"
+  },
+  {
+    "book": "Elveda Gülsarı",
+    "author": "Cengiz Aytmatov"
+  },
+  {
+    "book": "İki Şehrin Hikayesi",
+    "author": "Charles Dickens"
+  },
+  {
+    "book": "Diriliş",
+    "author": "Stephen King"
+  },
+  {
+    "book": "Üç Silahşörler",
+    "author": "Alexandre Dumas"
+  },
+  {
+    "book": "Gülistan",
+    "author": "Şirazlı Sadi"
+  },
+  {
+    "book": "Miskinler Tekkesi",
+    "author": "Reşat Nuri Güntekin"
+  },
+  {
+    "book": "Ahraz",
+    "author": "Deniz Gezgin"
+  },
+  {
+    "book": "Bir Buçuk Teneke",
+    "author": "Yannis Makridankis"
+  },
+  {
+    "book": "Gölgede Ve Güneşte Futbol",
+    "author": "Eduardo Galeano"
+  },
+  {
+    "book": "Sokratesin Savunması",
+    "author": "Platon"
+  },
+  {
+    "book": "Men From The Boys",
+    "author": "Tony Parsons"
+  },
+  {
+    "book": "Aklından Bir Sayı Tut",
+    "author": "John Verdon"
+  },
+  {
+    "book": "Destined",
+    "author": "P.C And Kristin Cast"
+  },
+  {
+    "book": "Mesneviden Hikayeler",
+    "author": "Mevlana"
+  },
+  {
+    "book": "Girl In Translations",
+    "author": "Jean Kwok"
+  },
+  {
+    "book": "Define Adası",
+    "author": "Robert Louis Stevenson"
+  },
+  {
+    "book": "The Picture Of Dorian Gray",
+    "author": "Oscar Wilde"
+  },
+  {
+    "book": "Altın Işık",
+    "author": "Ziya Gökalp"
+  },
+  {
+    "book": "Hasretinde Prangalar Eskittim",
+    "author": "Ahmed Arif"
+  },
+  {
+    "book": "Diriliş",
+    "author": "Tolstoy"
+  },
+  {
+    "book": "Sofie'nin Dünyası",
+    "author": "Jostein Gaarder"
+  },
+  {
+    "book": "Chinese English Dictionary",
+    "author": "Xialolu Guo"
+  },
+  {
+    "book": "Böyle Buyurdu Zerdüşt",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "book": "Incognito",
+    "author": "Beynin Gizli Hayatı"
+  },
+  {
+    "book": "Hayvanlardan Tanrılara: Sapiens",
+    "author": "Yuval Noah Harari"
+  },
+  {
+    "book": "Kırmızı Pazartesi",
+    "author": "Gabriel Garcia Marquez"
+  },
+  {
+    "book": "Aforizmalar",
+    "author": "Hippokrates"
+  },
+  {
+    "book": "Sızma Sanatı",
+    "author": "Kevin Mitnick William Simon"
+  },
+  {
+    "book": "Martin ",
+    "author": ""
+  },
+  {
+    "book": "Aforizmlar",
+    "author": "Franz Kafka"
+  },
+  {
+    "book": "Bir Kuzey Macerası",
+    "author": "Jack London"
+  },
+  {
+    "book": "Sessiz Ev",
+    "author": "Orhan Pamuk"
+  },
+  {
+    "book": "Günahkar Baba",
+    "author": "Hasan Nail Canat"
+  },
+  {
+    "book": "Huzursuzluk",
+    "author": "Zülfü Livaneli"
+  },
+  {
+    "book": "Dava",
+    "author": "Franz Kafka"
+  }
+  ]
+}
