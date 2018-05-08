@@ -1,0 +1,23 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "A library app",
+  "main": "js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiimnew/library.git"
+  },
+  "author": "Ertan Kara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiimnew/library/issues"
+  },
+  "homepage": "https://github.com/hiimnew/library#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1"
+  }
+}
