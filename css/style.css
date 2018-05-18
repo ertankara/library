@@ -1,9 +1,126 @@
-*, *::after, *::before {
-  margin: 0;
-  padding: 0;
+@media screen and (min-width: 800px) {
+  body {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+  }
+
+
+  aside > .close-button {
+    display: none;
+  }
+
+
+  main > .hamburger-btn {
+    display: none;
+  }
 }
+
+/* === MEDIA QUERIES END === */
+
+/* <<< KEYFRAMES BEGIN <<< */
+@keyframes aside-animate {
+
+}
+/* KEYFRAMES END */
+
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
 
 * {
   margin: 0;
   padding: 0;
 }
+
+
+html, body, main {
+  width: 100%;
+  height: 100%;
+}
+
+
+/* === HAMBURGER BUTTON STYLES === */
+.hamburger-lines {
+  width: 25px;
+  margin: 4px;
+  border: 1.5px solid black;
+}
+
+
+.hamburger-btn {
+  position: relative;
+  top: 20px;
+  left: 20px;
+  float: left;
+  cursor: pointer;
+}
+
+/* === HAMBURGER BUTTON STYLES END === */
+
+/* === ASIDE STYLES BEGIN === */
+aside {
+  position: absolute;
+  z-index: 1;
+  left: -300px;
+  top: 0;
+  width: 300px;
+  height: 100%;
+  /* background: linear-gradient(rgb(65, 46, 1), rgb(172, 100, 18)); */
+  background-color: #888;
+  opacity: 0.9;
+  color: rgb(240, 240, 236);
+  padding-left: 15px;
+}
+
+
+.close-button {
+  float: right;
+  font-size: 1.5em;
+  color: #fff;
+  padding: 20px;
+  cursor: pointer;
+}
+
+
+.category-container {
+  font-size: 1.3em;
+  padding: 10px;
+}
+
+
+.category-element {
+  line-height: 1.8em;
+}
+/* === ASIDE STYLES END === */
+
+
+/* === SEARCH BAR STYLES BEGIN === */
+
+.search-bar {
+  position: relative;
+  top: 60px;
+  width: 45%;
+  min-width: 200px;
+  max-width: 400px;
+  height: 80px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  border: 2px solid #ccc;
+}
+
+
+.search-bar-input {
+  width: 100%;
+  height: 100%;
+  border: none;
+  display: block;
+  margin: auto;
+  padding: 10px;
+
+}
+
+/* === SEARCH BAR STYLES END === */
